@@ -1,2 +1,2 @@
 # Game-Boy-Reverse-Engineering
-Game Boy Reverse Engineering For Link Port
+PCB for reverse engineering Game Boy link port
